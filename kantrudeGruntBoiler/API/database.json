@@ -1,0 +1,42 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "guy",
+            "computerId": 1,
+            "departmentId": 1
+        },
+        {
+            "id": 2,
+            "name": "oliver",
+            "computerId": 2,
+            "departmentId": 2
+        },
+        {
+            "id": 3,
+            "name": "jeff",
+            "computerId": 1,
+            "departmentId": 2
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "name": "It"
+        },
+        {
+            "id": 2,
+            "name": "HR"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "name": "bad computer"
+        },
+        {
+            "id": 2,
+            "name": "good computer"
+        }
+    ]
+}
